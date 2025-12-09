@@ -1,3 +1,2 @@
-A comprehensive Java console application that collects, processes, and displays student academic performance data with statistical analysis and formatted reporting.
+![WhatsApp Image 2025-12-09 at 20 09 11_aa349b36](https://github.com/user-attachments/assets/68e3874a-b77d-4e95-a631-acb9da7afcc1)
 
-This Java application demonstrates fundamental programming concepts including data collection, array manipulation, statistical computation, and formatted output generation. The system collects student performance data across multiple subjects, calculates grades, generates rankings, and produces a professionally formatted academic report similar to institutional grade reports.# Student-scoresheet
